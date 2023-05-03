@@ -10,12 +10,12 @@ int main() {
         freq[i] = 0;
     }
 
-    // Her elemanin frekansini sayin
+   
     for (int i = 0; i < n; i++) {
         freq[arr[i]]++;
     }
 
-    // Tüm elemanlari ve frekanslarini yazdirin
+    
     printf("Eleman\tFrekans\n");
     for (int i = 0; i < n; i++) {
         if (freq[i] > 0) {
