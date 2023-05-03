@@ -1,0 +1,6 @@
+﻿  Kaynak.cpp
+C:\Users\yasin\source\repos\soru1\Kaynak.cpp(6,14): error C2131: ifade sabit olarak değerlendirilmedi
+C:\Users\yasin\source\repos\soru1\Kaynak.cpp(6,14): message : bir değişkenin kendi ömrünün dışında okunması bu hataya neden oldu
+C:\Users\yasin\source\repos\soru1\Kaynak.cpp(6,14): message : 'n' kullanımına bakın
+C:\Users\yasin\source\repos\soru1\Kaynak.cpp(10,17): error C3863: 'int [n]' dizi türü atanabilir değil
+C:\Users\yasin\source\repos\soru1\Kaynak.cpp(22,20): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 2 değişen sayıda bağımsız değişkenin türü 'int [n]'
